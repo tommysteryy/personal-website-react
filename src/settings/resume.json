@@ -1,49 +1,43 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
+        "name": "Tommy Xu",
         "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "email": "tommysteryy@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
-        "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "x_title": "Hey! I'm ",
+        "job": "ML SWE Intern @ Borealis AI",
+        "description": "Hey, I'm Tommy Xu, a senior CS, STAT, and Management student at UBC. I love all things ML and Engineering. Talk soon!",
+        "summary": "based in Vancouver, Canada",
+        "keywords": "personal,website,portfolio,template,kit,tommy,xu,tommysteryy,computer,science,vancouver,canada,react,github,linkedin,google,material,design,ui,webapp",
+        "url": "https://tommymxu.com",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "Vancouver",
+            "country": "Canada",
+            "countryCode": "CAN",
+            "region": "Kerrisdale"
         },
         "profiles": [
             {
-                "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "network": "Email",
+                "username": "tommysteryy@gmail.com",
+                "url": "mailto:tommysteryy@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "username": "tommymxu",
+                "url": "https://www.linkedin.com/in/tommymxu/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "username": "tommysteryy",
+                "url": "https://github.com/tommysteryy",
                 "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "joli",
-                "url": "https://gitlab.informatik.uni-bremen.de/joli",
-                "x_icon": "fab fa-gitlab"
-            }
+            }   
         ]
     },
     "work": [
@@ -105,16 +99,12 @@
     ],
     "languages": [
         {
-            "language": "German",
+            "language": "English",
             "fluency": "Native speaker"
         },
         {
-            "language": "English",
-            "fluency": "Fluent speaker"
-        },
-        {
-            "language": "French",
-            "fluency": "Good knowledge"
+            "language": "Chinese",
+            "fluency": "Native speaker"
         }
     ],
     "interests": [
